@@ -1,0 +1,5 @@
+enum ResultType{
+    GAIN_ZENI, GAIN_POWERLEVEL, GAIN_ABILITY, FIGHT;
+
+
+}
